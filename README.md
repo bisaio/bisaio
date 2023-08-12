@@ -18,4 +18,4 @@
 
 ##
 
-![Snake animation](https://github.com/bisaio)
+![Snake animation](https://github.com/bisaio/bisaio/blob/output/github-contribution-grid-snake.svg)
