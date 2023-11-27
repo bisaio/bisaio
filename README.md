@@ -4,7 +4,7 @@
 
 - 📚 Estudo na Faculdade de Tecnologia (FATEC) de Rio Preto
 - 💼 Trabalho na Ecori Energia Solar, na área de TI
-- 🎒 Possuo conhecimento em HTML, CSS, C e estou aprendendo Python
+- 🎒 Possuo conhecimento em HTML, CSS, C e Python
 - 📩 Contato: guilhermebisaio.curric@gmail.com
 
 [![Bisaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisaio&count_private=true&show_icons=true&include_all_commits&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bisaio&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
