@@ -1,7 +1,7 @@
 ##
 
 Estudo na Fatec Rio Preto e estou trabalhando na TechTrust como estagiário de desenvolvimento.
-Atualmente estou me aprofudando em javascript.
+<br>Atualmente estou me aprofudando em javascript.
 
 [![Bisaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisaio&count_private=true&show_icons=true&include_all_commits&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bisaio&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
