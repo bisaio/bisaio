@@ -1,7 +1,7 @@
 ##
 
 Estudo Análise e Desenvolvimento de Sistemas na Fatec Rio Preto, atualmente estou em Intercâmbio Acadêmico no Instituto Politécnico de Bragança (IPB) em Portugal, cursando Engenharia Informática.
-<br>Me aprofudando em React.
+<br>Me aprofudando em React e TypeScript.
 
 [![Bisaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisaio&count_private=true&show_icons=true&include_all_commits&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bisaio&layout=compact&count_private=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
