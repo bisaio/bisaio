@@ -1,11 +1,14 @@
 ##
 
-Estudo Análise e Desenvolvimento de Sistemas na Fatec Rio Preto, atualmente estou em Intercâmbio Acadêmico no Instituto Politécnico de Bragança (IPB) em Portugal, cursando Engenharia Informática.
-<br>
-- Me aprofudando em React e TypeScript.
+### Student & Developer
+- Currently pursuing Computer Engineering as an exchange student at IPB (Portugal), originally from Fatec Rio Preto (Brazil).
+- Focused on mastering the React + TypeScript ecosystem.
 
 ---
-- Ferramentas que possuo experiência
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,php,python,c,cpp,postgres,firebase,docker,linux" />
+### 🛠 Technologies & Tools
+- **Languages**<br><img src="https://skillicons.dev/icons?i=js,ts,php,python,c,cpp,html,css," />
+- **Frameworks & Libs**<br><img src="https://skillicons.dev/icons?i=react,bootstrap" />
+- **Database**<br><img src="https://skillicons.dev/icons?i=postgres,firebase" />
+- **Infrastructure & DevOps**<br><img src="https://skillicons.dev/icons?i=linux,windows,docker" />
 
 ##          
