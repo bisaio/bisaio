@@ -9,6 +9,6 @@
 - **Languages**<br><img src="https://skillicons.dev/icons?i=js,ts,php,python,c,cpp,html,css," />
 - **Frameworks & Libs**<br><img src="https://skillicons.dev/icons?i=react,bootstrap" />
 - **Database**<br><img src="https://skillicons.dev/icons?i=postgres,firebase" />
-- **Infrastructure & DevOps**<br><img src="https://skillicons.dev/icons?i=linux,windows,docker" />
+- **Infrastructure & DevOps**<br><img src="https://skillicons.dev/icons?i=linux,windows,docker,git,gitlab" />
 
 ##          
