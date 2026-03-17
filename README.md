@@ -1,7 +1,8 @@
 ##
 
 ### Student & Developer
-- Currently pursuing Computer Engineering as an exchange student at IPB (Portugal), originally from Fatec Rio Preto (Brazil).
+- Systems Analysis and Development student at Fatec Rio Preto (Brazil).
+- Former exchange student in Computer Engineering at IPB (Portugal).
 - Focused on mastering the React + TypeScript ecosystem.
 
 ---
